@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">File Drop</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_clipboard">Send Clipboard</string>
+    <string name="receive_clipboard">Receive Clipboard</string>
+    <string name="default_computer_name">Computer</string>
+</resources>
